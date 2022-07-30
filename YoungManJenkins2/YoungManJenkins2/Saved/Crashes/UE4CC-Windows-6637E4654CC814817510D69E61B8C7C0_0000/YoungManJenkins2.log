@@ -1,0 +1,1727 @@
+﻿Log file open, 07/29/22 22:30:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: YoungManJenkins2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.292562
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:1]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:231][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.30-01.30.51:231][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.30-01.30.51:232][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:232][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:258][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.30-01.30.51:258][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.30-01.30.51:259][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.30-01.30.51:259][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.30-01.30.51:259][  0]LogHAL: Display: Platform has ~ 24 GB [25701400576 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.30-01.30.51:259][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.30-01.30.51:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.30-01.30.51:260][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Scalability.ini]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.30-01.30.51:261][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.30-01.30.51:262][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.30-01.30.51:262][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.30-01.30.51:262][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.30-01.30.51:262][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Engine.ini]
+[2022.07.30-01.30.51:262][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Config/Windows/Editor.ini]
+[2022.07.30-01.30.51:262][  0]LogInit: Computer: DESKTOP-PA1D2JD
+[2022.07.30-01.30.51:262][  0]LogInit: User: natha
+[2022.07.30-01.30.51:262][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.30-01.30.51:262][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.30-01.30.51:262][  0]LogMemory: Memory total: Physical=23.9GB (24GB approx)
+[2022.07.30-01.30.51:262][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.30-01.30.51:262][  0]LogMemory: Process Physical Memory: 147.80 MB used, 147.81 MB peak
+[2022.07.30-01.30.51:262][  0]LogMemory: Process Virtual Memory: 131.06 MB used, 131.06 MB peak
+[2022.07.30-01.30.51:262][  0]LogMemory: Physical Memory: 10276.00 MB used,  14234.77 MB free, 24510.77 MB total
+[2022.07.30-01.30.51:262][  0]LogMemory: Virtual Memory: 134203416.00 MB used,  14315.71 MB free, 134217728.00 MB total
+[2022.07.30-01.30.51:267][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.30-01.30.51:314][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.30-01.30.51:315][  0]LogInit: Using OS detected language (en-US).
+[2022.07.30-01.30.51:315][  0]LogInit: Using OS detected locale (en-US).
+[2022.07.30-01.30.51:324][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.07.30-01.30.51:556][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.30-01.30.51:568][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.30-01.30.51:585][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.30-01.30.51:586][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.30-01.30.51:750][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.07.30-01.30.51:753][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.30-01.30.51:753][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.30-01.30.51:753][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.30-01.30.51:753][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.30-01.30.51:856][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.07.30-01.30.51:856][  0]LogD3D11RHI:       4018/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:       0/0/12255 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     SubSysId    : 33511462
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.30-01.30.51:858][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2022.07.30-01.30.51:859][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.30-01.30.51:859][  0]LogD3D11RHI:     SharedSystemMemory : 12850700288 bytes
+[2022.07.30-01.30.51:859][  0]LogD3D11RHI:     AdapterLuid : 0 46877
+[2022.07.30-01.30.51:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.30-01.30.51:867][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2022.07.30-01.30.51:867][  0]LogWindows: EnumDisplayDevices:
+[2022.07.30-01.30.51:868][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2022.07.30-01.30.51:868][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2022.07.30-01.30.51:868][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.07.30-01.30.51:868][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.07.30-01.30.51:869][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:   Driver Version: 512.95 (internal:30.0.15.1295, unified:512.95)
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:      Driver Date: 5-19-2022
+[2022.07.30-01.30.51:869][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     SubSysId    : 33511462
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     SharedSystemMemory : 12850700288 bytes
+[2022.07.30-01.30.51:869][  0]LogD3D11RHI:     AdapterLuid : 0 46877
+[2022.07.30-01.30.51:936][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.30-01.30.51:936][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.30-01.30.51:936][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.30-01.30.51:966][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.07.30-01.30.51:997][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.07.30-01.30.52:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.30-01.30.52:340][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.30-01.30.52:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.30-01.30.52:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.30-01.30.52:373][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.07.30-01.30.52:378][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.07.30-01.30.52:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.07.30-01.30.52:387][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.07.30-01.30.52:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.07.30-01.30.52:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.07.30-01.30.52:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.07.30-01.30.52:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.30-01.30.52:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.30-01.30.52:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.30-01.30.52:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.30-01.30.52:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.30-01.30.52:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.30-01.30.52:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.30-01.30.52:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.30-01.30.52:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.30-01.30.52:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.30-01.30.52:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.30-01.30.52:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.30-01.30.52:511][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.30-01.30.52:520][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.30-01.30.52:557][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.07.30-01.30.52:593][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.30-01.30.52:593][  0]LogShaderCompilers: Guid format shader working directory is -52 characters bigger than the processId version (../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Intermediate/Shaders/WorkingDirectory/9536/).
+[2022.07.30-01.30.52:593][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/natha/AppData/Local/Temp/UnrealShaderWorkingDir/A6D940304E64FD2BDBD6A695C4F2E737/'.
+[2022.07.30-01.30.52:593][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.30-01.30.52:593][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.30-01.30.52:593][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.30-01.30.53:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.30-01.30.53:497][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.07.30-01.30.53:516][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.07.30-01.30.53:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.07.30-01.30.53:516][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.07.30-01.30.53:566][  0]LogDerivedDataCache: Speed tests for C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.07.30-01.30.53:566][  0]LogDerivedDataCache: Display: Performance to C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=263.41MBs, RandomWriteSpeed=20.24MBs. Assigned SpeedClass 'Local'
+[2022.07.30-01.30.53:567][  0]LogDerivedDataCache: Using Local data cache path C:/Users/natha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.07.30-01.30.53:567][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.30-01.30.53:567][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.30-01.30.53:618][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.30-01.30.53:618][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.30-01.30.53:643][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2022.07.30-01.30.53:921][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.30-01.30.53:921][  0]LogInit: Active device profile: [0000022213736D00][00000222135021C0 49] Windows
+[2022.07.30-01.30.53:921][  0]LogInit: Profiles: [0000022213736D00][00000222135021C0 49] Windows, [00000222136E1400][0000022213260480 49] WindowsNoEditor, [0000022213736600][0000022213264740 49] WindowsServer, [00000222136E1A00][0000022213268A00 49] WindowsClient, [0000022213736000][000002221325CC80 49] IOS, [00000222136E1E00][000002221326CF00 49] iPadAir, [0000022213735D00][0000022210BED1C0 49] iPadAir2, [0000022213691500][0000022210C01700 49] IPadPro, [0000022213691600][0000022210BF1740 49] iPadAir3, [00000222136E0F00][0000022210BF9A00 49] iPadAir4, [0000022213692400][0000022210BF4140 49] iPadMini2, [00000222136E0C00][0000022210BFC400 49] iPadMini3, [0000022213693100][0000022210C046C0 49] iPadMini4, [00000222136E3000][0000022210C08980 49] iPadMini5, [00000222136AD300][0000022210C18E80 49] iPhone6, [00000222136AD400][0000022210C0CEC0 49] iPodTouch6, [0000022213737700][00000222135653C0 49] iPhone7, [0000022213737100][0000022213271400 49] iPodTouch7, [0000022213692600][0000022210C1D6C0 49] iPhone5S, [0000022213691D00][0000022210C11980 49] iPhone6Plus, [00000222136AD000][00000222135600C0 49] iPhone6S, [0000022213690400][0000022213568380 49] iPhone6SPlus, [00000222136AF700][000002221356C640 49] iPhone7Plus, [0000022213691200][0000022213570900 49] iPhoneSE, [00000222136ACD00][0000022213574BC0 49] iPhone8, [0000022213693900][0000022213578E80 49] iPhone8Plus, [00000222136AE500][0000022210C15100 49] iPhoneX, [0000022213692500][000002221357D380 49] iPhoneXS, [00000222136ADD00][0000022213585640 49] iPhoneXSMax, [0000022213691B00][0000022213589900 49] iPhoneXR, [00000222136ADC00][000002221358DBC0 49] iPhone11, [0000022213692D00][0000022213590300 49] iPhone11Pro, [00000222136ADA00][00000222135945C0 49] iPhone11ProMax, [0000022213690100][0000022213598880 49] iPhoneSE2, [00000222136ACC00][000002221359CB40 49] iPhone12Mini, [0000022213692B00][00000222092EAE00 49] iPhone12, [0000022213734600][00000222092EF0C0 49] iPhone12Pro, [0000022213693E00][0000022213581340 49] iPhone12ProMax, [0000022213734100][00000222092F35C0 49] iPadPro105, [0000022213692300][00000222092FB880 49] iPadPro129, [0000022213736800][00000222092FFB40 49] iPadPro97, [0000022213693700][0000022209302280 49] iPadPro2_129, [0000022213734500][0000022209306540 49] iPad5, [0000022213692000][000002220930A800 49] iPad6, [0000022213736200][000002220930EAC0 49] iPad7, [0000022213693300][0000022209312D80 49] iPad8, [0000022213734800][0000022209317040 49] iPadPro11, [0000022213691900][000002220931B300 49] iPadPro2_11, [0000022213736B00][00000222092F7580 49] iPadPro3_129, [0000022213693D00][0000022209323840 49] iPadPro4_129, [0000022213734C00][0000022209327B00 49] AppleTV, [0000022213693200][000002220932A240 49] AppleTV4K, [0000022213735B00][000002220932E500 49] TVOS, [0000022213690C00][00000222093327C0 49] Mac, [0000022213736A00][0000022209336A80 49] MacClient, [0000022213691000][000002220933AD40 49] MacNoEditor, [0000022213735900][00000222130DD000 49] MacServer, [0000022213692700][00000222130E12C0 49] Linux, [0000022213735000][000002220931F540 49] LinuxAArch64, [0000022213690600][00000222130E57C0 49] LinuxNoEditor, [0000022213735600][00000222130EDA80 49] LinuxAArch64NoEditor, [0000022213691100][00000222130F01C0 49] LinuxClient, [0000022213735300][00000222130F4480 49] LinuxAArch64Client, [0000022213693800][00000222130F8740 49] LinuxServer, [0000022213734D00][00000222130FCA00 49] LinuxAArch64Server, [0000022213692200][0000022213100CC0 49] Android, [0000022213737400][0000022213104F80 49] Android_Low, [0000022213692F00][0000022213109240 49] Android_Mid, [0000022213737000][000002221310D500 49] Android_High, [0000022213692E00][00000222130E9780 49] Android_Default, [0000022213736700][0000022213111A00 49] Android_Adreno4xx, [0000022213692800][0000022213118140 49] Android_Adreno5xx_Low, [00000222136AE600][000002221311C400 49] Android_Adreno5xx, [00000222136E3B00][00000222131206C0 49] Android_Adreno6xx, [00000222136AD600][0000022213124980 49] Android_Adreno6xx_Vulkan, [00000222136E1700][0000022213128C40 49] Android_Mali_T6xx, [00000222136AF600][000002221312CF00 49] Android_Mali_T7xx, [00000222136E0100][00000222131311C0 49] Android_Mali_T8xx, [00000222136AD500][0000022213135480 49] Android_Mali_G71, [00000222136E1D00][0000022213139740 49] Android_Mali_G72, [00000222136AF100][00000222131159C0 49] Android_Mali_G72_Vulkan, [00000222136E2000][000002221313C0C0 49] Android_Mali_G76, [00000222136AC900][0000022213144380 49] Android_Mali_G76_Vulkan, [00000222136E2900][0000022213148640 49] Android_Mali_G77, [00000222136AD100][000002221314C900 49] Android_Mali_G77_Vulkan, [00000222136E0900][0000022213150BC0 49] Android_Mali_G78, [00000222136AF900][0000022213154E80 49] Android_Mali_G78_Vulkan, [00000222136E1300][0000022213159140 49] Android_Mali_G710, [00000222136ACB00][000002221315D400 49] Android_Mali_G710_Vulkan, [00000222136E2600][0000022212F6D6C0 49] Android_Vulkan_SM5, [00000222136AE900][0000022212F71980 49] Android_PowerVR_G6xxx, [00000222136E3200][0000022213141C00 49] Android_PowerVR_GT7xxx, [00000222136AC200][0000022212F74300 49] Android_PowerVR_GE8xxx, [00000222136E0800][0000022212F7C5C0 49] Android_PowerVR_GM9xxx, [00000222136AEB00][0000022212F80880 49] Android_PowerVR_GM9xxx_Vulkan, [00000222136E0500][0000022212F84B40 49] Android_TegraK1, [00000222136ACF00][0000022212F88E00 49] Android_Unknown_Vulkan, [00000222136E1C00][0000022212F8D0C0 49] Lumin, [00000222136AF400][0000022212F91380 49] Lumin_Desktop, [00000222136E2800][0000022212F95640 49] HoloLens, 
+[2022.07.30-01.30.54:053][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.30-01.30.54:053][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.30-01.30.54:053][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.30-01.30.54:053][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.30-01.30.54:053][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.30-01.30.54:074][  0]LogNetVersion: YoungManJenkins2 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1288888525)
+[2022.07.30-01.30.54:498][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.30-01.30.54:562][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.07.30-01.30.54:568][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.07.30-01.30.54:568][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.07.30-01.30.54:568][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.30-01.30.54:865][  0]LogPython: Using Python 3.7.7
+[2022.07.30-01.30.55:427][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 8607C8394EE1F1009CD112A6FBC5D127 | Instance: B304CC3349F9E20F91788CB8A49A705A (DESKTOP-PA1D2JD-9536).
+[2022.07.30-01.30.55:600][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.30-01.30.55:606][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.30-01.30.55:691][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerOverview': Can't find file.
+[2022.07.30-01.30.55:691][  0]LogLinker: Warning: Failed to load '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerOverview': Can't find file.
+[2022.07.30-01.30.55:691][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/Blueprints/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2022.07.30-01.30.55:873][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.55:874][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.55:877][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.55:880][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.55:887][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.55:889][  0]LogUProjectInfo: Found projects:
+[2022.07.30-01.30.56:038][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.30-01.30.56:085][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.30-01.30.56:121][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.30-01.30.56:121][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.30-01.30.56:258][  0]LogCollectionManager: Loaded 0 collections in 0.002392 seconds
+[2022.07.30-01.30.56:287][  0]LogFileCache: Scanning file cache for directory 'C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Collections/' took 0.00s
+[2022.07.30-01.30.56:287][  0]LogFileCache: Scanning file cache for directory 'C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/Developers/natha/Collections/' took 0.00s
+[2022.07.30-01.30.56:287][  0]LogFileCache: Scanning file cache for directory 'C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/Collections/' took 0.00s
+[2022.07.30-01.30.56:287][  0]LogOcInput: OculusInput pre-init called
+[2022.07.30-01.30.56:530][  0]LogEngine: Initializing Engine...
+[2022.07.30-01.30.56:533][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.07.30-01.30.56:533][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.07.30-01.30.56:534][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.07.30-01.30.56:535][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.30-01.30.56:667][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.30-01.30.56:677][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.30-01.30.56:686][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.30-01.30.56:689][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.30-01.30.56:690][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.30-01.30.56:691][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.30-01.30.56:691][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-01.30.56:710][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-01.30.56:710][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-01.30.56:725][  0]LogAudioMixer: Display: Using Audio Device Headphones (Soundcore Liberty 2 Pro Stereo)
+[2022.07.30-01.30.56:726][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-01.30.56:728][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-01.30.56:729][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-01.30.56:730][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-01.30.56:730][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-01.30.56:730][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-01.30.56:731][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-01.30.56:731][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-01.30.56:731][  0]LogInit: FAudioDevice initialized.
+[2022.07.30-01.30.56:731][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.30-01.30.56:731][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.30-01.30.56:932][  0]LogDerivedDataCache: Saved boot cache 0.20s 94MB C:/Users/natha/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.07.30-01.30.56:932][  0]LogInit: Texture streaming: Enabled
+[2022.07.30-01.30.56:947][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.07.30-01.30.56:951][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.30-01.30.56:951][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.30-01.30.56:953][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.30-01.30.56:988][  0]LogInit: Transaction tracking system initialized
+[2022.07.30-01.30.57:011][  0]BlueprintLog: New page: Editor Load
+[2022.07.30-01.30.57:073][  0]LocalizationService: Localization service is disabled
+[2022.07.30-01.30.57:101][  0]TimingProfiler: Initialize
+[2022.07.30-01.30.57:101][  0]TimingProfiler: OnSessionChanged
+[2022.07.30-01.30.57:101][  0]LoadingProfiler: Initialize
+[2022.07.30-01.30.57:101][  0]LoadingProfiler: OnSessionChanged
+[2022.07.30-01.30.57:101][  0]NetworkingProfiler: Initialize
+[2022.07.30-01.30.57:101][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.30-01.30.57:101][  0]MemoryProfiler: Initialize
+[2022.07.30-01.30.57:101][  0]MemoryProfiler: OnSessionChanged
+[2022.07.30-01.30.57:267][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.30-01.30.57:267][  0]LogCook: Display: Mobile HDR setting 1
+[2022.07.30-01.30.57:469][  0]LogFileCache: Scanning file cache for directory 'C:/GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/' took 0.01s
+[2022.07.30-01.30.57:639][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.30-01.30.57:643][  0]SourceControl: Source control is disabled
+[2022.07.30-01.30.57:643][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.919
+[2022.07.30-01.30.57:643][  0]LogEditorServer: Warning: Can't find file '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2022.07.30-01.30.57:643][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.30-01.30.57:644][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.209ms to complete.
+[2022.07.30-01.30.57:644][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.001
+[2022.07.30-01.30.57:646][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.922
+[2022.07.30-01.30.57:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.30.57:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.30.57:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.30.57:797][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.30.57:812][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0113 seconds. Added 3822 classes and 928 folders.
+[2022.07.30-01.30.57:815][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.30-01.30.57:817][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.30-01.30.57:817][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:817][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.30-01.30.57:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:817][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.07.30-01.30.57:817][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.30-01.30.57:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.07.30-01.30.57:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.07.30-01.30.57:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.07.30-01.30.57:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:819][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.30-01.30.57:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.30-01.30.57:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:819][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.07.30-01.30.57:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.30-01.30.57:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.07.30-01.30.57:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.30-01.30.57:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.07.30-01.30.57:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:821][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.30-01.30.57:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.30-01.30.57:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.07.30-01.30.57:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.30-01.30.57:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.07.30-01.30.57:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.30-01.30.57:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.07.30-01.30.57:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:823][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.07.30-01.30.57:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.07.30-01.30.57:823][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:823][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.07.30-01.30.57:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:824][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.07.30-01.30.57:824][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:824][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.07.30-01.30.57:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:824][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.07.30-01.30.57:824][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.30-01.30.57:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.07.30-01.30.57:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.30-01.30.57:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.07.30-01.30.57:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.07.30-01.30.57:826][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.30-01.30.57:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.30-01.30.57:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:826][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.07.30-01.30.57:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.07.30-01.30.57:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.07.30-01.30.57:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.30-01.30.57:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:827][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.07.30-01.30.57:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.07.30-01.30.57:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.07.30-01.30.57:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.30-01.30.57:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.07.30-01.30.57:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.07.30-01.30.57:829][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.30-01.30.57:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.30-01.30.57:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.07.30-01.30.57:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.07.30-01.30.57:830][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.30-01.30.57:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.30-01.30.57:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:830][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.07.30-01.30.57:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.07.30-01.30.57:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.07.30-01.30.57:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.07.30-01.30.57:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.07.30-01.30.57:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.07.30-01.30.57:832][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.07.30-01.30.57:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.07.30-01.30.57:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.07.30-01.30.57:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:833][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.07.30-01.30.57:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.07.30-01.30.57:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.07.30-01.30.57:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:833][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.07.30-01.30.57:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.07.30-01.30.57:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.07.30-01.30.57:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.07.30-01.30.57:834][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.30-01.30.57:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.30-01.30.57:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.30-01.30.57:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.30-01.30.57:834][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.07.30-01.30.57:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.07.30-01.30.57:905][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.07.30-01.30.57:906][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.07.30-01.30.58:025][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.30-01.30.58:027][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.30-01.30.58:028][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.30-01.30.58:124][  0]LogRenderer: Reallocating scene render targets to support 1056x476 Format 10 NumSamples 1 (Frame:1).
+[2022.07.30-01.30.58:206][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.30-01.30.58:206][  0]LogLoad: (Engine Initialization) Total time: 8.48 seconds
+[2022.07.30-01.30.58:206][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.30-01.30.58:251][  0]LogAssetRegistry: Asset discovery search completed in 4.6092 seconds
+[2022.07.30-01.30.58:257][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.07.30-01.30.58:260][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.30-01.30.58:337][  5]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.30-01.31.01:670][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.07.30-01.31.01:681][204]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.07.30-01.31.01:876][204]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.31.01:876][204]Cmd: MAP LOAD FILE="../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.30-01.31.01:876][204]LightingResults: New page: Lighting Build
+[2022.07.30-01.31.01:877][204]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 6 classes and 0 folders.
+[2022.07.30-01.31.01:877][204]LoadErrors: New page: Loading map: TrainCarlvl1.umap
+[2022.07.30-01.31.01:878][204]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.31.01:878][204]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.31.01:878][204]MapCheck: New page: Map Check
+[2022.07.30-01.31.01:878][204]LightingResults: New page: Lighting Build
+[2022.07.30-01.31.01:889][204]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.30-01.31.01:892][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.07.30-01.31.01:893][204]LogAudio: Display: Audio Device (ID: 1) registered with world 'TrainCarlvl1'.
+[2022.07.30-01.31.01:940][204]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.30-01.31.01:940][204]LogAIModule: Creating AISystem for world TrainCarlvl1
+[2022.07.30-01.31.01:949][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.30-01.31.01:957][204]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.30-01.31.01:957][204]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.156ms to complete.
+[2022.07.30-01.31.01:957][204]LogFileHelpers: Loading map 'TrainCarlvl1' took 0.081
+[2022.07.30-01.31.03:013][267]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.31.03:034][267]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.31.04:147][335]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.30-01.31.04:154][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.30-01.31.04:154][335]PIE: New page: PIE session: TrainCarlvl1 (Jul 29, 2022, 7:31:04 PM)
+[2022.07.30-01.31.04:156][335]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.07.30-01.31.04:157][335]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.07.30-01.31.04:157][335]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1
+[2022.07.30-01.31.04:161][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004255s)
+[2022.07.30-01.31.04:162][335]LogAIModule: Creating AISystem for world TrainCarlvl1
+[2022.07.30-01.31.04:162][335]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2022.07.30-01.31.04:162][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1 to /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1.TrainCarlvl1 (0.005421s)
+[2022.07.30-01.31.04:168][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.31.04:169][335]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-01.31.04:169][335]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-01.31.04:169][335]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.30-01.31.04:169][335]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.30-01.31.04:169][335]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.30-01.31.04:169][335]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-01.31.04:172][335]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-01.31.04:172][335]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-01.31.04:179][335]LogAudioMixer: Display: Using Audio Device Headphones (Soundcore Liberty 2 Pro Stereo)
+[2022.07.30-01.31.04:179][335]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-01.31.04:179][335]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-01.31.04:179][335]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-01.31.04:180][335]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-01.31.04:180][335]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-01.31.04:180][335]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-01.31.04:181][335]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-01.31.04:181][335]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-01.31.04:181][335]LogInit: FAudioDevice initialized.
+[2022.07.30-01.31.04:181][335]LogAudio: Display: Audio Device (ID: 2) registered with world 'TrainCarlvl1'.
+[2022.07.30-01.31.04:187][335]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.07.30-01.31.04:190][335]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1.TrainCarlvl1 up for play (max tick rate 0) at 2022.07.29-22.31.04
+[2022.07.30-01.31.04:190][335]LogWorld: Bringing up level for play took: 0.001374
+[2022.07.30-01.31.04:190][335]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.07.30-01.31.04:193][335]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.07.30-01.31.04:195][335]PIE: Server logged in
+[2022.07.30-01.31.04:197][335]PIE: Play in editor total start time 0.044 seconds.
+[2022.07.30-01.31.07:678][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.31.07:678][544]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1
+[2022.07.30-01.31.07:678][544]LogWorld: UWorld::CleanupWorld for TrainCarlvl1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.31.07:679][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.31.07:691][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.30-01.31.07:693][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.31.07:699][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.31.07:699][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-01.31.07:700][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-01.31.07:704][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.07.30-01.31.07:751][547]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.07.30-01.31.12:177][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.31.12:211][813]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.31.12:211][813]Cmd: MAP LOAD FILE="../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.30-01.31.12:211][813]LightingResults: New page: Lighting Build
+[2022.07.30-01.31.12:211][813]LoadErrors: New page: Loading map: TrainCarlvl1.umap
+[2022.07.30-01.31.12:214][813]LogWorld: UWorld::CleanupWorld for TrainCarlvl1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.31.12:214][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.31.12:214][813]MapCheck: New page: Map Check
+[2022.07.30-01.31.12:214][813]LightingResults: New page: Lighting Build
+[2022.07.30-01.31.12:218][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.30-01.31.12:220][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.07.30-01.31.12:229][813]LogAudio: Display: Audio Device (ID: 1) registered with world 'TrainCarlvl1'.
+[2022.07.30-01.31.12:230][813]LogAIModule: Creating AISystem for world TrainCarlvl1
+[2022.07.30-01.31.12:271][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.30-01.31.12:280][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.07.30-01.31.12:286][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.30-01.31.12:286][813]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2022.07.30-01.31.12:287][813]LogFileHelpers: Loading map 'TrainCarlvl1' took 0.076
+[2022.07.30-01.31.14:481][942]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Widgets/UI.UI
+[2022.07.30-01.31.14:620][942]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.07.30-01.31.15:951][942]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.07.30-01.31.53:527][192]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/TopDownBP/Widgets/BulletCounter.BulletCounter
+[2022.07.30-01.31.58:339][452]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.07.30-01.32.39:470][817]BlueprintLog: New page: Compile UI
+[2022.07.30-01.32.39:529][817]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2022.07.30-01.32.39:585][817]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.30-01.32.47:592][298]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.30-01.32.47:599][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.30-01.32.47:599][298]PIE: New page: PIE session: TrainCarlvl1 (Jul 29, 2022, 7:32:47 PM)
+[2022.07.30-01.32.47:647][298]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1
+[2022.07.30-01.32.47:651][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004305s)
+[2022.07.30-01.32.47:652][298]LogAIModule: Creating AISystem for world TrainCarlvl1
+[2022.07.30-01.32.47:652][298]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2022.07.30-01.32.47:652][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1 to /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1.TrainCarlvl1 (0.005517s)
+[2022.07.30-01.32.47:682][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2022.07.30-01.32.47:683][298]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-01.32.47:683][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-01.32.47:683][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-01.32.47:684][298]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.30-01.32.47:684][298]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.30-01.32.47:684][298]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.30-01.32.47:684][298]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-01.32.47:686][298]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-01.32.47:686][298]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-01.32.47:694][298]LogAudioMixer: Display: Using Audio Device Headphones (Soundcore Liberty 2 Pro Stereo)
+[2022.07.30-01.32.47:695][298]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-01.32.47:695][298]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-01.32.47:695][298]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-01.32.47:695][298]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-01.32.47:695][298]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-01.32.47:695][298]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-01.32.47:696][298]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-01.32.47:696][298]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-01.32.47:696][298]LogInit: FAudioDevice initialized.
+[2022.07.30-01.32.47:696][298]LogAudio: Display: Audio Device (ID: 3) registered with world 'TrainCarlvl1'.
+[2022.07.30-01.32.47:703][298]LogLoad: Game class is 'TopDownGameMode_C'
+[2022.07.30-01.32.47:704][298]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1.TrainCarlvl1 up for play (max tick rate 0) at 2022.07.29-22.32.47
+[2022.07.30-01.32.47:705][298]LogWorld: Bringing up level for play took: 0.001362
+[2022.07.30-01.32.47:705][298]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.07.30-01.32.47:708][298]PIE: Server logged in
+[2022.07.30-01.32.47:709][298]PIE: Play in editor total start time 0.111 seconds.
+[2022.07.30-01.32.50:568][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.32.50:568][470]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TrainCarlvl1
+[2022.07.30-01.32.50:568][470]LogWorld: UWorld::CleanupWorld for TrainCarlvl1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.32.50:568][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.32.50:582][470]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.30-01.32.50:587][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.32.50:614][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.30-01.32.50:615][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-01.32.50:616][470]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-01.32.50:618][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-01.32.50:622][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.07.30-01.32.50:667][472]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.07.30-01.32.51:539][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.30-01.32.51:576][525]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/UI79A5163D4D8A40CED00C2BA60A5B42BC.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Widgets/UI.uasset'
+[2022.07.30-01.32.51:621][525]AssetCheck: New page: Asset Save: UI
+[2022.07.30-01.32.51:621][525]LogContentValidation: Display: Validating WidgetBlueprint /Game/TopDownBP/Widgets/UI.UI
+[2022.07.30-01.32.55:469][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.07.30-01.33.25:254][979]LogEditorViewport: Clicking on Actor (LMB): TrainCar1_C (Full_Base_Train_Car_Sprite_0_Blueprint)
+[2022.07.30-01.33.30:204][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.07.30-01.33.40:040][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.34.32:038][913]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.34.32:095][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.30-01.34.41:829][495]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.34.41:884][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.07.30-01.34.45:381][624]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.34.45:437][624]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.07.30-01.34.46:948][713]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.34.46:985][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.07.30-01.34.48:411][713]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.34.48:452][713]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolD0F992664070510A13BE8EB24A03D539.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.34.48:481][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.34.48:501][713]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl11AF1950E4467E5180BBCE08C603F3BB8.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.34.48:510][713]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.34.48:535][714]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.34.48:535][714]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.34.48:535][714]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.35.22:943][753]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.35.22:998][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.07.30-01.35.25:511][902]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.35.25:548][902]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.07.30-01.35.26:972][902]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.35.27:014][902]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol8C3BA326477AF04ED64F1D923E284558.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.35.27:043][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.35.27:063][902]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl10344B45D45D1DDF9B08055BDA924DBF0.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.35.27:073][902]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.058
+[2022.07.30-01.35.27:096][903]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.35.27:096][903]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.35.27:097][903]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.36.11:413][182]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.36.11:468][182]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.07.30-01.36.12:980][271]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.36.13:018][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.07.30-01.36.14:111][271]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.36.14:150][271]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol2B3E0EAC42232A1F5ED13589DEC11938.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.36.14:179][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.07.30-01.36.14:199][271]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl101079F5340052B5B023E15BFC8B4B7A4.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.36.14:208][271]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.36.14:236][272]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.36.14:236][272]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.36.14:236][272]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.38.05:716][101]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.38.05:772][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.07.30-01.38.09:751][338]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.38.09:789][338]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.07.30-01.38.10:836][338]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.38.10:873][338]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol2779546A433C0856C5908EA00AA38FB8.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.38.10:902][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.38.10:922][338]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl19F2997EB4B5F20F16ACE1B988256DE53.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.38.10:930][338]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.38.10:954][339]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.38.10:954][339]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.38.10:954][339]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.39.09:231][879]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.39.09:285][879]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.07.30-01.40.02:204][654]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.40.02:261][654]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2022.07.30-01.41.05:301][ 61]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.41.05:340][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.07.30-01.41.06:337][ 61]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.41.06:371][ 61]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolC3DA583845AC427F3C66559FE8B1578D.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.41.06:400][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.41.06:421][ 61]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl131C534EB4B300C53E52C68B881D97500.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.41.06:429][ 61]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.41.06:459][ 62]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.41.06:460][ 62]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.41.06:460][ 62]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.41.41:296][722]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.41.41:349][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.07.30-01.41.52:504][378]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.41.52:559][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.07.30-01.41.54:705][506]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.41.54:742][506]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.07.30-01.41.55:772][506]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.41.55:810][506]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolF2F96D4A496FD683C538CFBAC5A9D65A.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.41.55:838][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.41.55:858][506]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl154BA325740DA328D55A6B7B74DD824AF.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.41.55:867][506]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.41.55:891][507]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.41.55:891][507]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.41.55:891][507]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.42.27:814][388]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.42.27:868][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.07.30-01.42.29:298][472]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.42.29:334][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.30-01.42.32:412][472]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.42.32:453][472]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol0D9026E342ED10FE18AFB1ABE9410957.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.42.32:483][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.07.30-01.42.32:504][472]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1706144584D9F29CE9467D0BE74E6E077.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.42.32:512][472]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.058
+[2022.07.30-01.42.32:536][473]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.42.32:536][473]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.42.32:536][473]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.43.05:643][899]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.43.05:697][899]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.07.30-01.43.16:901][570]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.43.16:955][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.07.30-01.43.18:401][655]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.43.18:438][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2022.07.30-01.43.20:048][655]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.43.20:088][655]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol17F3B0604E836C0AA473DBBE3CABE87D.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.43.20:117][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.07.30-01.43.20:137][655]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl159431D414C780531288381B46AF0A078.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.43.20:146][655]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.43.20:169][656]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.43.20:169][656]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.43.20:169][656]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.43.39:919][988]LogEditorViewport: Clicking on Actor (LMB): EnemyPistol_C (EnemyPistol)
+[2022.07.30-01.43.40:412][ 16]Cmd: DELETE
+[2022.07.30-01.43.40:412][ 16]Cmd: ACTOR DELETE
+[2022.07.30-01.43.40:414][ 16]LogEditorActor: Deleted Actor: EnemyPistol_C
+[2022.07.30-01.43.40:445][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.07.30-01.43.40:447][ 16]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.07.30-01.43.41:519][ 81]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.43.41:552][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.30-01.43.42:705][ 81]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.43.42:753][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.30-01.43.42:772][ 81]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1AE136B104971C68D938967BDFEC10B2C.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.43.42:781][ 81]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.055
+[2022.07.30-01.43.42:801][ 82]AssetCheck: New page: Asset Save: TrainCarlvl1
+[2022.07.30-01.43.42:802][ 82]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.44.08:457][795]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.44.08:507][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.07.30-01.44.43:083][109]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.44.43:139][109]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.07.30-01.44.45:834][214]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.44.45:871][214]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2022.07.30-01.44.46:897][214]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.44.46:939][214]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolF4D59A0F4E8DBAC0F6E9F9B339E9317E.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.44.46:968][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.07.30-01.44.46:987][214]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1C85500054086BF38FEA8D0BC021F8F1C.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.44.46:996][214]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.055
+[2022.07.30-01.44.47:018][215]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.44.47:018][215]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.44.47:018][215]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.45.20:494][101]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.45.20:548][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.07.30-01.45.22:262][203]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.45.22:298][203]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.07.30-01.45.23:340][203]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.45.23:381][203]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol799CD4CC46D34AD038F40FA799C3696B.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.45.23:409][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.45.23:429][203]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1ED608158457214106EFA6B9F2DF9C16D.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.45.23:437][203]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.055
+[2022.07.30-01.45.23:460][204]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.45.23:461][204]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.45.23:461][204]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.45.43:612][747]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.45.43:663][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.30-01.45.45:946][882]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.45.45:983][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.07.30-01.45.47:297][882]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.45.47:331][882]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolA88FBD4E47843597A65507A8230D240C.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.45.47:361][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.45.47:380][882]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1F4A551A24FB62E6B7A028492E5F2C602.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.45.47:388][882]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.45.47:410][883]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.45.47:410][883]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.45.47:410][883]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.46.19:389][963]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.46.19:410][963]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.46.23:558][186]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.46.23:578][186]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-01.46.37:001][983]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e1bdf620-a769-4fa8-a20f-9a10073a4aa7}.
+[2022.07.30-01.46.37:007][983]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.30-01.46.37:037][983]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-01.46.37:037][983]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-01.46.57:118][186]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.46.57:171][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.07.30-01.47.34:596][970]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.47.34:633][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.07.30-01.47.35:661][970]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.47.35:699][970]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol41EF72A044067AB28E8863B3C457A29E.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.47.35:729][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.30-01.47.35:748][970]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl121C174324124713AEB060DB3F4C7AA81.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.47.35:757][970]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.057
+[2022.07.30-01.47.35:779][971]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.47.35:779][971]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.47.35:779][971]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.48.48:919][670]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.48.48:974][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.07.30-01.48.50:820][780]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.48.50:857][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.30-01.48.51:865][780]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.48.51:904][780]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol13FED7184F63BA09F0E4E7B5F69E5751.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.48.51:933][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.48.51:953][780]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1DCE59E2A46EC7A4EEDD9BA995741ED80.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.48.51:962][780]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.48.51:983][781]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.48.51:983][781]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.48.51:983][781]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.49.11:853][226]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.49.11:906][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.07.30-01.49.13:854][342]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.49.13:891][342]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.07.30-01.49.14:839][342]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.49.14:872][342]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol765282BF473FF27C0CFA4F91E7DD3854.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.49.14:901][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.30-01.49.14:920][342]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl117524A4841181BBE9FDBAA94C0B8287A.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.49.14:929][342]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.055
+[2022.07.30-01.49.14:950][343]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.49.14:950][343]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.49.14:950][343]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.49.47:898][530]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.49.47:952][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.07.30-01.50.42:521][372]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.50.42:573][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2022.07.30-01.50.44:421][482]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.50.44:459][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.07.30-01.50.46:605][482]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.50.46:645][482]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol80DBF0A14FFC4736442C20BEF9C6A42A.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.50.46:674][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.07.30-01.50.46:694][482]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl166D752C94EA9C06AE141B59D62E12579.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.50.46:702][482]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.056
+[2022.07.30-01.50.46:731][483]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.50.46:731][483]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.50.46:731][483]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.51.40:832][756]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.51.40:832][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.51.40:842][756]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.51.40:842][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.51.41:193][773]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.51.41:193][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.51.41:204][773]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.51.41:204][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.51.42:541][849]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-01.52.22:630][155]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.52.22:711][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.07.30-01.52.24:097][238]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.52.24:148][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.07.30-01.52.25:376][238]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.52.25:418][238]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolE431EDCB4892DA261E092B8DD1CE9595.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.52.25:440][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-01.52.25:460][238]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1F208F5FB4EB0C3FCF90D0483F6C81952.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.52.25:469][238]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.049
+[2022.07.30-01.52.25:493][239]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.52.25:493][239]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.52.25:493][239]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.52.42:052][619]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-01.52.42:052][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-01.53.02:311][831]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.53.02:349][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.07.30-01.53.03:694][910]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.53.03:718][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.07.30-01.53.04:669][910]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.53.04:717][910]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolC95A0B304C25F595A3786CA8E5899517.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.53.04:736][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-01.53.04:755][910]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl10C4C5D7642FE65B649198DA41D6A1AB2.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.53.04:764][910]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.045
+[2022.07.30-01.53.04:784][911]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.53.04:784][911]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.53.04:784][911]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.53.43:491][863]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.53.43:528][863]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.30-01.53.45:592][986]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-01.53.45:617][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.30-01.53.46:669][986]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-01.53.46:711][986]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol9FBF90E74B74D3EBBA3B2E90CE01B974.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-01.53.46:730][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-01.53.46:749][986]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1D7645BC9486CFE302BE8B4856C1E2EC1.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-01.53.46:757][986]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.045
+[2022.07.30-01.53.46:777][987]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-01.53.46:777][987]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-01.53.46:777][987]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-01.57.47:091][885]LogEditorTransaction: Undo Move Nodes
+[2022.07.30-01.58.17:465][615]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-01.58.17:501][615]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.07.30-02.00.51:421][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.01.35:097][646]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.01.35:138][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.30-02.03.44:579][991]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.03.44:615][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.07.30-02.04.13:014][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.30-02.04.13:036][364]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1_Auto16CE202FE44920AD1AC57B39591DF7736.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Autosaves/Game/TopDownBP/Maps/TrainCarlvl1_Auto1.umap'
+[2022.07.30-02.04.13:038][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TrainCarlvl1' took 0.049
+[2022.07.30-02.04.13:038][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.049
+[2022.07.30-02.04.13:038][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/EnemyPistol] ([4] browsable assets)...
+[2022.07.30-02.04.13:038][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/EnemyPistol]
+[2022.07.30-02.04.13:052][364]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol_Auto182A0A72345646785DE310A96A80EECA5.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Autosaves/Game/TopDownBP/Blueprints/EnemyPistol_Auto1.uasset'
+[2022.07.30-02.04.13:054][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/EnemyPistolBullet] ([2] browsable assets)...
+[2022.07.30-02.04.13:054][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/EnemyPistolBullet]
+[2022.07.30-02.04.13:062][364]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet_Auto1CC64AF6A47955A2E38DABC8DD29D1F45.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Autosaves/Game/TopDownBP/Blueprints/EnemyPistolBullet_Auto1.uasset'
+[2022.07.30-02.04.13:063][364]LogFileHelpers: Auto-saving content packages took 0.025
+[2022.07.30-02.05.11:795][186]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.05.11:833][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.30-02.06.12:957][ 21]LogEditorTransaction: Undo Edit Homing Acceleration Magnitude
+[2022.07.30-02.06.12:981][ 21]LogEditorTransaction: Undo Edit X
+[2022.07.30-02.06.13:859][ 53]LogEditorTransaction: Undo Edit Is Homing Projectile
+[2022.07.30-02.06.15:843][141]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-02.06.15:881][141]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-02.07.03:913][259]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.07.03:956][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.07.30-02.07.05:996][377]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.30-02.07.42:875][ 35]LogEditorTransaction: Undo Delete current selection
+[2022.07.30-02.07.43:283][ 46]LogEditorTransaction: Undo Delete current selection
+[2022.07.30-02.08.43:755][365]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.08.43:800][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.30-02.08.57:465][140]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.08.57:508][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.07.30-02.09.12:777][ 38]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.09.12:821][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.07.30-02.09.29:185][540]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.09.29:229][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.07.30-02.09.30:198][594]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolE09B688D47C9B2E392479790A0350768.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-02.09.30:231][594]AssetCheck: New page: Asset Save: EnemyPistol
+[2022.07.30-02.09.30:231][594]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.10.21:145][508]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.10.21:187][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.30-02.10.36:240][381]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.10.36:282][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.07.30-02.10.37:224][437]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.10.37:265][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.30-02.10.40:816][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.07.30-02.10.40:853][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-02.10.40:872][469]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1766878634A3474B3638EAB932B7D3893.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.10.40:882][469]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.049
+[2022.07.30-02.10.40:894][469]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol244396EB45E7DCEB8A87A3ADEA9C29D4.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-02.10.40:908][469]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBulletA2B1D59D4CDF51AD2574ABAC5DF6D9B0.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.10.40:920][469]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.10.40:920][469]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.10.40:920][469]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.10.40:921][469]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.10.58:223][415]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.10.58:263][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.07.30-02.11.18:906][633]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.11.18:948][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.07.30-02.11.58:051][194]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.11.58:093][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.07.30-02.12.01:871][420]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.12.01:911][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.30-02.12.25:806][747]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.12.25:849][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.30-02.12.40:852][531]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.12.40:894][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.07.30-02.12.57:480][492]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.12.57:521][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-02.13.36:943][ 17]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.13.36:985][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-02.13.46:025][ 55]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.30-02.13.56:608][630]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.13.56:651][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.07.30-02.16.13:124][  8]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.16.13:165][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2022.07.30-02.16.44:616][334]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.30-02.16.44:640][334]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.30-02.16.51:740][749]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.16.51:781][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-02.16.57:168][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.30-02.16.57:206][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-02.16.57:226][ 70]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl17BDCF582482BDC899B36D7B640420DEA.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.16.57:236][ 70]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.052
+[2022.07.30-02.16.57:253][ 70]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet0046DCA440962904C0A4CCBC93D7B678.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.16.57:265][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.16.57:265][ 70]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.16.57:265][ 70]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.17.25:049][500]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.17.25:091][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.07.30-02.17.40:627][422]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.17.40:668][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.07.30-02.17.41:820][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.07.30-02.17.41:856][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-02.17.41:875][489]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1B263CE7B4100B510A02228A4B5ECAB42.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.17.41:884][489]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.049
+[2022.07.30-02.17.41:903][489]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBulletF09D9B364D941C76F396AFBAC6BF18C1.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.17.41:915][489]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.17.41:915][489]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.17.41:915][489]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.18.28:196][959]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.18.28:238][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.30-02.18.39:939][596]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.18.39:980][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.07.30-02.18.52:198][327]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.18.52:241][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.07.30-02.19.04:431][825]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.19.34:247][439]BlueprintLog: New page: Compile Jenkins2
+[2022.07.30-02.19.34:317][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.30-02.19.40:191][787]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.19.40:205][787]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.19.40:230][787]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.19.40:230][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.19.40:297][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.30-02.19.40:297][787]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.19.40:297][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.19.40:357][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.30-02.19.40:357][787]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.19.40:357][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.19.41:068][827]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.19.41:097][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.07.30-02.19.42:221][827]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.19.42:264][827]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet0B9E7702485498809A2A15899D1E55B8.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.19.42:315][827]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Jenkins217BA26FB46A704D849D6AE8D4726E528.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/Jenkins2.uasset'
+[2022.07.30-02.19.42:334][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.07.30-02.19.42:353][827]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl17C5185674AA98327283E14BF04CEC574.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.19.42:362][827]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.045
+[2022.07.30-02.19.42:385][828]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.19.42:385][828]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.19.42:385][828]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.19.42:385][828]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.19.43:586][846]LogEditorViewport: Clicking on Actor (LMB): TrainCar1_C (Full_Base_Train_Car_Sprite_0_Blueprint)
+[2022.07.30-02.19.59:281][784]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.19.59:307][784]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.07.30-02.20.19:436][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.20.34:692][986]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.20.34:729][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.07.30-02.20.36:894][105]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.20.36:930][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-02.20.44:617][562]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.20.44:650][562]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.30-02.20.46:450][668]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.20.46:476][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.07.30-02.20.47:519][668]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.20.47:553][668]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolCB9FA9594BA96BDF5FAB6A867D63B1C0.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-02.20.47:573][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-02.20.47:592][668]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl199D51BAC4E167A032356F3934B61236E.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.20.47:601][668]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.046
+[2022.07.30-02.20.47:630][669]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.20.47:630][669]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.20.47:630][669]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.21.18:992][466]LogEditorViewport: Clicking on Actor (LMB): EnemyPistol_C (EnemyPistol2)
+[2022.07.30-02.21.22:395][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.07.30-02.21.22:417][665]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl1F27466A44819BCB9C80B0F8FB5785775.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.21.22:451][665]AssetCheck: New page: Asset Save: TrainCarlvl1
+[2022.07.30-02.21.22:451][665]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.21.23:361][721]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.21.23:385][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-02.21.41:766][135]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.22.00:247][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.22.30:520][993]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.22.30:534][993]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.22.30:538][993]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.22.30:538][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.22.30:601][993]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.30-02.22.30:601][993]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.22.30:601][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.22.30:666][993]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.30-02.22.30:666][993]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.22.30:666][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.22.32:354][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.22.37:052][342]BlueprintLog: New page: Compile Jenkins2
+[2022.07.30-02.22.37:121][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.07.30-02.22.37:611][362]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Jenkins2EC82C7C24DA9B8D71006FDBDEB86A1B1.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/Jenkins2.uasset'
+[2022.07.30-02.22.37:627][362]AssetCheck: New page: Asset Save: Jenkins2
+[2022.07.30-02.22.37:627][362]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.22.39:286][463]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.22.39:312][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.07.30-02.23.29:631][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.25.19:991][211]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.25.20:036][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.07.30-02.25.22:025][327]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.25.22:054][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.07.30-02.25.23:378][327]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.25.23:420][327]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet0A120EE94B7F3614CAEC4CA5584DB8A9.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.25.23:462][328]AssetCheck: New page: Asset Save: EnemyPistolBullet
+[2022.07.30-02.25.23:462][328]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.25.54:508][163]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.25.54:508][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.25.56:851][298]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.30-02.25.56:876][298]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.07.30-02.26.01:289][551]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.26.01:331][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.30-02.26.04:974][694]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.26.04:999][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.07.30-02.26.07:290][694]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.26.07:337][694]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet14693DC143220362447C218EC27AE80A.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.26.07:378][695]AssetCheck: New page: Asset Save: EnemyPistolBullet
+[2022.07.30-02.26.07:378][695]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.26.21:393][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.26.47:908][262]BlueprintLog: New page: Compile Jenkins2
+[2022.07.30-02.26.47:967][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.30-02.26.49:725][362]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.26.49:755][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.07.30-02.26.51:192][362]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.26.51:266][362]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Jenkins27BE2A6204EFBBAFFF3EA579D76BA9146.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/Jenkins2.uasset'
+[2022.07.30-02.26.51:294][363]AssetCheck: New page: Asset Save: Jenkins2
+[2022.07.30-02.26.51:294][363]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.27.13:225][997]LogEditorTransaction: Undo Change Collision Profile
+[2022.07.30-02.27.13:270][997]LogEditorTransaction: Undo Change Collision Profile
+[2022.07.30-02.27.13:278][997]LogEditorTransaction: Undo Change Class Pin Value
+[2022.07.30-02.27.13:282][997]LogEditorTransaction: Undo Edit Is Homing Projectile
+[2022.07.30-02.27.13:291][997]LogEditorTransaction: Undo Edit Homing Acceleration Magnitude
+[2022.07.30-02.27.13:293][997]LogEditorTransaction: Undo Insert Child
+[2022.07.30-02.27.13:297][997]LogEditorTransaction: Undo Edit 0
+[2022.07.30-02.27.14:610][ 46]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-02.27.14:633][ 46]LogSlate: Window 'Undo History' being destroyed
+[2022.07.30-02.27.20:090][372]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.27.20:090][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.27.20:516][394]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.27.20:555][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.07.30-02.28.17:125][942]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.28.17:166][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.07.30-02.28.27:239][463]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.28.35:925][952]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.28.35:943][952]LogSlate: Window 'Jenkins2' being destroyed
+[2022.07.30-02.28.35:947][952]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.28.35:947][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.28.36:010][952]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.07.30-02.28.36:010][952]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.28.36:010][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.28.36:889][  2]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.28.36:915][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.07.30-02.28.38:115][  2]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.28.38:169][  2]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet0A76910E4EFD4C5A909A469AC77C6CAC.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.28.38:221][  2]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Jenkins26495AB7C4E618B788810BB87D8BD7F0C.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/Jenkins2.uasset'
+[2022.07.30-02.28.38:248][  3]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.28.38:248][  3]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.28.38:248][  3]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/Jenkins2.Jenkins2
+[2022.07.30-02.29.32:471][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.29.50:362][382]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.29.50:398][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.07.30-02.29.52:737][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.30-02.29.52:763][520]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet368EB80C4F838729F58B34B327F6B5B0.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.29.52:804][520]AssetCheck: New page: Asset Save: EnemyPistolBullet
+[2022.07.30-02.29.52:804][520]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.32.06:215][156]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.32.06:248][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.07.30-02.32.48:071][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.07.30-02.32.48:073][507]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/TrainCarlvl1' took 0.025
+[2022.07.30-02.32.48:074][507]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/EnemyPistolBullet] ([4] browsable assets)...
+[2022.07.30-02.32.48:074][507]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/EnemyPistolBullet]
+[2022.07.30-02.32.48:085][507]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet_Auto2B38AF3CE4F4F5D6AE3274CA6F0AECF09.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/Autosaves/Game/TopDownBP/Blueprints/EnemyPistolBullet_Auto2.uasset'
+[2022.07.30-02.32.48:087][507]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.07.30-02.32.56:169][951]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.32.56:172][951]LogBlueprint: Warning: [AssetLog] C:\GameDev\Unreal\Young-Man-Jenkins-2-The-Robbery\YoungManJenkins2\YoungManJenkins2\Content\TopDownBP\Blueprints\EnemyPistolBullet.uasset: [Compiler] Cast To Jenkins2  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.07.30-02.32.56:205][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.07.30-02.32.59:939][174]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.32.59:975][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.30-02.33.01:322][254]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.33.01:349][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.07.30-02.33.02:555][254]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.33.02:592][254]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBulletF44F1BA74F5246CC9CDB2CB699DC019F.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.33.02:643][255]AssetCheck: New page: Asset Save: EnemyPistolBullet
+[2022.07.30-02.33.02:643][255]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.35.23:263][465]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.35.23:299][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.07.30-02.35.24:231][520]LogSlate: Window 'EnemyPistolBullet' being destroyed
+[2022.07.30-02.35.24:257][520]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.35.24:257][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.35.25:172][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.35.29:434][799]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.35.29:462][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.07.30-02.35.30:600][799]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.35.30:633][799]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistolBullet549211F643AE09D3B4C1F8BD4A7B9281.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistolBullet.uasset'
+[2022.07.30-02.35.30:689][800]AssetCheck: New page: Asset Save: EnemyPistolBullet
+[2022.07.30-02.35.30:689][800]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.35.56:579][236]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.36.03:823][645]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-02.36.03:823][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-02.37.18:551][477]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.37.18:596][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.30-02.38.44:717][625]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.38.44:719][625]LogBlueprint: Warning: [AssetLog] C:\GameDev\Unreal\Young-Man-Jenkins-2-The-Robbery\YoungManJenkins2\YoungManJenkins2\Content\TopDownBP\Blueprints\EnemyPistol.uasset: [Compiler] Get Actor Array Average Location  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.07.30-02.38.44:762][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.30-02.39.22:478][796]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.39.22:480][796]LogBlueprint: Warning: [AssetLog] C:\GameDev\Unreal\Young-Man-Jenkins-2-The-Robbery\YoungManJenkins2\YoungManJenkins2\Content\TopDownBP\Blueprints\EnemyPistol.uasset: [Compiler] Cast To Jenkins2  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.07.30-02.39.22:524][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.07.30-02.39.35:738][395]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.39.35:741][395]LogBlueprint: Warning: [AssetLog] C:\GameDev\Unreal\Young-Man-Jenkins-2-The-Robbery\YoungManJenkins2\YoungManJenkins2\Content\TopDownBP\Blueprints\EnemyPistol.uasset: [Compiler] Cast To Jenkins2  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.07.30-02.39.35:784][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.30-02.39.38:071][531]LogTemp: Repeating last play command: Standalone Game
+[2022.07.30-02.39.38:098][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.30-02.39.39:161][531]LogSlate: Window 'Save Content' being destroyed
+[2022.07.30-02.39.39:193][531]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/EnemyPistol4514149740C3C84A64D5E3B1925C03E4.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Blueprints/EnemyPistol.uasset'
+[2022.07.30-02.39.39:212][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-02.39.39:232][531]LogSavePackage: Moving '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Saved/TrainCarlvl11BA7B707464E636B10C8D29749A09D7E.tmp' to '../../../../../../GameDev/Unreal/Young-Man-Jenkins-2-The-Robbery/YoungManJenkins2/YoungManJenkins2/Content/TopDownBP/Maps/TrainCarlvl1.umap'
+[2022.07.30-02.39.39:241][531]LogFileHelpers: Saving map 'TrainCarlvl1' took 0.047
+[2022.07.30-02.39.39:269][532]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.30-02.39.39:269][532]LogContentValidation: Display: Validating Blueprint /Game/TopDownBP/Blueprints/EnemyPistol.EnemyPistol
+[2022.07.30-02.39.39:269][532]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TrainCarlvl1.TrainCarlvl1
+[2022.07.30-02.39.55:143][776]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDownBP/Blueprints/EnemyPistolBullet.EnemyPistolBullet
+[2022.07.30-02.40.05:977][397]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.40.06:032][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.07.30-02.40.20:605][264]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.40.20:643][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-02.42.45:474][793]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e924a1bb-d70e-4302-a11d-e86fb91945d5}.
+[2022.07.30-02.42.45:474][793]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.30-02.42.45:482][793]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-02.42.45:482][793]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-02.42.46:477][796]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{e1bdf620-a769-4fa8-a20f-9a10073a4aa7}.
+[2022.07.30-02.42.46:477][796]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.30-02.42.46:485][796]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-02.42.46:485][796]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-02.45.36:677][205]BlueprintLog: New page: Compile EnemyPistolBullet
+[2022.07.30-02.45.36:716][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.30-02.49.31:338][778]BlueprintLog: New page: Compile EnemyPistol
+[2022.07.30-02.49.31:389][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.07.30-02.50.20:591][620]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.07.30-02.50.20:725][620]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.134 s
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: === Handled ensure: ===
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: 
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinExec [AnimationGraphFactory.cpp(98)]). See InvalidateGraphData for more info
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: Stack: 
+[2022.07.30-02.50.20:725][620]LogOutputDevice: Error: [Callstack] 0x00007ffc357d476b UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc356812db UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc3567ff58 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc3568d0bc UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc3570879c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc35705c7f UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6b559 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6b3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6b3e4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9da6d800 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d0bbe74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc6d1a7a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d841bee UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d841f9b UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:726][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d872779 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d842547 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d898279 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ffc9d897a73 UE4Editor-Slate.dll!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c769a1f UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c780fcc UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c7810ba UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c7840dd UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c795984 UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ff78c79853a UE4Editor.exe!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ffcd79a7034 KERNEL32.DLL!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: [Callstack] 0x00007ffcd97c2651 ntdll.dll!UnknownFunction []
+[2022.07.30-02.50.20:727][620]LogOutputDevice: Error: 
